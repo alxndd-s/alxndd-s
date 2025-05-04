@@ -22,9 +22,11 @@
 
 ### 🧰 Other Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-0C0C0C?style=flat-square&logo=ejs)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
 ---
 
@@ -40,4 +42,3 @@
 - 💡 Always learning and building.
 - 🧩 Passionate about clean code, modern UI, and backend architecture.
 - 🤝 Open to collaboration on exciting projects!
-
