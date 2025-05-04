@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou o João Silva
+# 👋 Olá! Eu sou o Alexandre
 
-🔧 Desenvolvedor Full Stack  
-📍 São Paulo, Brasil  
-📫 Contato: joao@email.com  
+🔧 Full Stack Developer
+📍 Minas Gerais, Brasil  
+📫 Contato: alexandre.rsantosdev@gmail.com 
 
 ## 🚀 Tecnologias
 
@@ -12,4 +12,4 @@
 
 ## 📈 GitHub Stats
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=radical)
+![Alxndd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alxndd-s&show_icons=true&theme=radical)
